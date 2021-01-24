@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Install Indian App</string>
+
+    <string name="install">Install</string>
+    <string name="open">Open</string>
+    <string name="no_data">Currently No App Available</string>
+    <string name="str_share_app">Please Install, &quot;Install Indian App&quot;, It Is Awesome </string>
+    <string name="declaration_title">Declaration</string>
+    <string name="declaration_text">Based on our best knowledge, the list of all application other than &quot;OTHER TRUSTED&quot; category is indian. It might be vary.</string>
+    <string name="about_app_title">About App</string>
+    <string name="about_app_text">This application is for installing indian app. In this application you may see there are various category in tab. Under these categories you may see there are various application list. If application is installed the open button is displayed otherwise install button is display.</string>
+
+    <string name="about_author_title">About Author</string>
+    <string name="about_author_text">I am passionate software developer having experience in Mobile application development. Developing mobile applications is my hobby. New frameworks/technologies interests me a lot. \nYour feedback is highly appreciated. \nThank You Very Much</string>
+
+    <string name="current_app_Version">Installed App Version</string>
+</resources>
