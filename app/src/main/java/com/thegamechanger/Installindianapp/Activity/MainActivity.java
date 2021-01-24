@@ -26,7 +26,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-    String TAG = "MainActivity";
+    //String TAG = "MainActivity";
     DBHelper dbHelper;
 
     @Override
